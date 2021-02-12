@@ -4,16 +4,16 @@ This is an implementation of the basics of graphQL.
 
 # Pre-requisite
 
-You have to have those install on your system.
+You have to have those instaled on your system.
 - npm (v6+)
 - nodejs (v14+)
-you can dowload those softwares here : https://nodejs.org/en/
+you can download those softwares here : https://nodejs.org/en/
 - git
 
 # Download
 
 Project available on github.
-
+https://github.com/gary003/customer_graphQL.git
 
 ## Installation
 
